@@ -1,0 +1,40 @@
+
+img{
+    height: 350px;
+    width: 250px;
+    /* margin-left: 25px; */
+    padding: 20px;
+    margin-top: 0px;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 #5F7A61;
+    transition: 0.5s;
+    width: 77%;
+    background-color: #DBDFAA;
+    overflow: hidden;
+}
+
+.card:hover{
+   box-shadow:  5px 10px 16px 0 #2E4F4F;
+}
+
+h3{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    padding:  16px;
+    text-align: justify;
+}
+
+.column{
+    float: left;
+    width: 25%;
+    padding: 0px;
+}
+
+h4{
+    text-decoration: underline;
+}
